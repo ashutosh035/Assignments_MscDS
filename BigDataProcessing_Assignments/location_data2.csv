@@ -1,0 +1,23 @@
+,Name,Place ID,Administrative Area Level 1,Administrative Area Level 2,Country,Latitude,Longitude,Timezone,Type
+0,Fishermans Wharf,fishermans-wharf-6930485,California,Contra Costa,United States of America,37.80761N,122.41714W,America/Los_Angeles,settlement
+1,Bethpage,bethpage,New York,Nassau,United States of America,40.74427N,73.48207W,America/New_York,settlement
+2,Boston,boston,Massachusetts,Suffolk,United States of America,42.35843N,71.05977W,America/New_York,settlement
+3,Alexander City,alexander-city,Alabama,Tallapoosa,United States of America,32.94401N,85.95385W,America/Chicago,settlement
+4,Andalusia,andalusia,Alabama,Covington County,United States of America,31.30808N,86.48243W,America/Chicago,settlement
+5,Anniston,anniston,Alabama,Calhoun County,United States of America,33.65983N,85.83163W,America/Chicago,settlement
+6,Athens,athens,Attica,Nomarchía Athínas,Greece,37.98376N,23.72784E,Europe/Athens,settlement
+7,Atmore,atmore,Alabama,Escambia,United States of America,31.02379N,87.49387W,America/Chicago,settlement
+8,Auburn,auburn,Washington,King,United States of America,47.30732N,122.22845W,America/Los_Angeles,settlement
+9,Bessemer,bessemer,Alabama,Jefferson,United States of America,33.40178N,86.95444W,America/Chicago,settlement
+10,Birmingham,birmingham,England,Birmingham,United Kingdom,52.48142N,1.89983W,Europe/London,settlement
+11,Chickasaw,chickasaw,Alabama,Mobile,United States of America,30.7638N,88.07472W,America/Chicago,settlement
+12,Clanton,clanton,Alabama,Chilton County,United States of America,32.83874N,86.62943W,America/Chicago,settlement
+13,Cullman,cullman,Alabama,Cullman,United States of America,34.17482N,86.84361W,America/Chicago,settlement
+14,Decatur,decatur,Illinois,Macon,United States of America,39.84031N,88.9548W,America/Chicago,settlement
+15,Demopolis,demopolis,Alabama,Marengo,United States of America,32.51764N,87.8364W,America/Chicago,settlement
+16,Dothan,dothan,Alabama,Houston,United States of America,31.22323N,85.39049W,America/Chicago,settlement
+17,Enterprise,enterprise,Nevada,Clark,United States of America,36.02525N,115.24194W,America/Los_Angeles,settlement
+18,Eufaula,eufaula,Alabama,Barbour,United States of America,31.89127N,85.14549W,America/Chicago,settlement
+19,Florence,florence,Tuscany,Province of Florence,Italy,43.77925N,11.24626E,Europe/Rome,settlement
+20,Fort Payne,fort-payne,Alabama,DeKalb County,United States of America,34.44425N,85.71969W,America/Chicago,settlement
+21,Montgomery,montgomery,Alabama,Montgomery,United States of America,32.36681N,86.29997W,America/Chicago,settlement
